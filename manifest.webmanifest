@@ -1,0 +1,10 @@
+{
+  "name": "JSKY Crew Roster",
+  "short_name": "JSKY Roster",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f4c81",
+  "lang": "fa",
+  "dir": "rtl"
+}
